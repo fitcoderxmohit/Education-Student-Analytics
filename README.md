@@ -1,2 +1,2 @@
 # Education-Student-Analytics
-Education and Student Analytics System using Excel and Power B
+Education and Student Analytics System using Excel and Power BI
